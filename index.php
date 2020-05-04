@@ -5,6 +5,6 @@
 </head>
 <body>
 <h1>LAB Jenkins CI/CD </h1><hr>
-<p>Test build lan 1</p>
+<p>Test build lan 2</p>
 </body>
 </html>
